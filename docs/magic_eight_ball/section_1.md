@@ -59,3 +59,5 @@ Sec. 1.3 is where you will write all the messages that the eight-ball can give.
 Sec. 2 is where you will write the code that checks if the Sense HAT is shaken.
 
 ---
+
+#### [next section --->](./docs/magic_eight_ball/section_1.md)
