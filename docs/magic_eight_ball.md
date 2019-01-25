@@ -12,16 +12,6 @@ before, you might remember it from Toy Story: <a href="https://www.youtube.com/w
 It's a very simple toy: You ask it a question, you shake the ball (or Sense HAT),
 and it'll give you an answer.
 
-You can try an example solution of the project here:
-
-<iframe src="https://trinket.io/embed/python/08820f7aef?outputOnly=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
-To get the answer, press the middle joystick button (ENTER on your keyboard).
-
-In the version you will make, you will shake the Sense HAT to get the answer. Unfortunately
-you can't shake the virtual Sense HAT on Trinket, so in the version above we
-used the joystick instead.
-
 ## Project Manual
 
 This project guide will tell you step-by-step the main things you have to do
