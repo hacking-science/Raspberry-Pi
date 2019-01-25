@@ -37,3 +37,5 @@ some typical magic eight ball answers that you can use:
 But instead of using these, you should try to come up with your own!
 
 --- 
+
+#### [next section --->](./docs/magic_eight_ball/section_3.md)
