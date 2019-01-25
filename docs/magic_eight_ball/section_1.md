@@ -1,3 +1,6 @@
+# Project: **Magic eight ball**
+
+
 ### Introducing the project
 
 The first thing you should do is open the _skeleton code_ for the project.
