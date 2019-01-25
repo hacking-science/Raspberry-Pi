@@ -20,6 +20,8 @@ use your own creativity to proceed, good luck!
 
 ---
 
+#### [next section --->](./docs/magic_eight_ball/section_1.md)
+
 ### Introducing the project
 
 The first thing you should do is open the _skeleton code_ for the project.
