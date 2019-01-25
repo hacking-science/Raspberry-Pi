@@ -40,4 +40,4 @@ But instead of using these, you should try to come up with your own!
 
 #### [next section --->](./magic_eight_ball/section_3.md)
 
-#### [previous section --->](./magic_eight_ball/section_2.md)
+#### [<--- previous section](./magic_eight_ball/section_2.md)
