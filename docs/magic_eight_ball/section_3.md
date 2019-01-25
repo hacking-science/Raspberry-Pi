@@ -1,3 +1,7 @@
+# Project: **Magic eight ball**
+
+### Writing the code
+
 ##### (Sec. 2) Main program code
 
 Before we start coding, we'll explain a bit what's going on in Sec. 2.
