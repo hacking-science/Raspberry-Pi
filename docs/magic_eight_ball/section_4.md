@@ -12,7 +12,7 @@ to come up with new things to add to the current project. Use your creativity!
 You can discuss any ideas you have with a supervisor.
 
 ---
-#### [return home --->](.././index.md)
+#### [return home --->](../../index.md)
 
 
 
