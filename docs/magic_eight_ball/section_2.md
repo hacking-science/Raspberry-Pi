@@ -40,4 +40,4 @@ But instead of using these, you should try to come up with your own!
 
 #### [next section --->](section_3.md)
 
-#### [<--- previous section](section_2.md)
+#### [<--- previous section](section_1.md)
