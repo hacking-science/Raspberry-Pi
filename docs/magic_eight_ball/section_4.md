@@ -14,6 +14,11 @@ You can discuss any ideas you have with a supervisor.
 ---
 #### [return home --->](.././index.md)
 
+
+
+
+
+
 **Author:** Lukas Kikuchi <br/>
 **Date:**   August 09, 2017 <br/>
 **Copyright (c)** 2017 Go4Code All Rights Reserved.
