@@ -81,3 +81,8 @@ To break it down, what you need to do is this:
 - Get the accelerometer information.
 - Calculate *shake*, as shown above.
 - If *shake* is greater than 5, show a random message.
+
+--- 
+
+#### [next section --->](section_4.md)
+#### [<--- previous section](section_2.md)
