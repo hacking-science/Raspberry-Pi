@@ -60,4 +60,6 @@ Sec. 2 is where you will write the code that checks if the Sense HAT is shaken.
 
 ---
 
-#### [next section --->](./docs/magic_eight_ball/section_2.md)
+
+#### [next section --->](section_2.md)
+#### [<--- previous section](../magic_eight_ball.md)
