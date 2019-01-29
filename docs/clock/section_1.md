@@ -8,7 +8,7 @@
 
 In this project we'll be creating a *Digital Clock* using the Sense HAT. 
 
-It's a very simple clock: It continuously displays the current time on the Sense HAT. 
+The aim is to make the Sense Hat continuously displays the current real time to the closest minute.  
 
 ## Project Manual
 
