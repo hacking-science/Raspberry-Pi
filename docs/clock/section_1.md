@@ -18,4 +18,4 @@ use your own creativity to proceed, good luck!
 
 ---
 
-#### [start --->](./section_2.md)
+#### [start --->](section_2.md)
