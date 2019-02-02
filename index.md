@@ -38,6 +38,10 @@ This contains suggestions on what you could next to further develop your coding 
 
 ### Easy
 
+#### [Clock](./docs/clock/section_1.md)
+
+In this project you'll display the time on the Sense HAT.
+
 #### [Magic Eight Ball](./docs/magic_eight_ball.md)
 
 In this project we'll be creating a *Magic 8 ball* using the Sense HAT. If you've never seen one
