@@ -36,7 +36,7 @@ For our clock, we want to display the time to the nearest minute.
 
 How can we do this? 
 
-One way to do this is convert our _datetime.time_ into a string, and only display the first 5 characters of the string. 
+One way to do this is convert our _datetime.time_ into a string. See the next section for instructions on this step, or have a go if you know how!  
 
 
 --- 
